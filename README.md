@@ -1,5 +1,7 @@
 # portafolio
 ![Laravel](https://img.shields.io/badge/Laravel-practices-red?logo=laravel)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-practices-purple?logo=bootstrap)
+![PHP](https://img.shields.io/badge/PHP-practices-blue?logo=php)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
 ![GitHub](https://img.shields.io/badge/GitHub-projects-black?logo=github)
 ![License](https://img.shields.io/badge/license-MIT-green)
