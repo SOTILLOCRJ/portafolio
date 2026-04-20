@@ -1,0 +1,25 @@
+[33mcommit fba8f3dc0bedc016c59acd1c9076a44d0f6c6206[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cesar Sotillo <sotillocrj@gmail.com>
+Date:   Mon Apr 20 10:37:41 2026 -0300
+
+    Removida a pasta nome-da-pasta do portfólio
+
+[33mcommit d2d48eac9815c8a5b25330dc130d006842e757e2[m
+Author: Cesar Sotillo <SOTILLOCRJ@GMAIL.COM>
+Date:   Wed Apr 15 14:28:32 2026 -0300
+
+    Add Bootstrap and PHP badges to README
+    
+    Adicionar ícones de Laravel, PHP e Bootstrap nos arquivos README.md
+
+[33mcommit 1ef587f8dd1a08d1ff513574a560e2e3e8a187a2[m
+Author: Cesar Sotillo <sotillocrj@gmail.com>
+Date:   Wed Apr 15 14:19:23 2026 -0300
+
+    chore(portafolio): agregar estructura inicial con carpetas laravel, php y bootstrap
+
+[33mcommit cf9b41b8dcee444df6e3014d1d8f20634f3f0da6[m
+Author: Cesar Sotillo <SOTILLOCRJ@GMAIL.COM>
+Date:   Wed Apr 15 14:00:16 2026 -0300
+
+    Initial commit
