@@ -4,3 +4,6 @@
 [submodule "laravel/quiz-game-laravel"]
 	path = laravel/quiz-game-laravel
 	url = https://github.com/SOTILLOCRJ/quiz-game-laravel.git
+[submodule "laravel/math-x"]
+	path = laravel/math-x
+	url = https://github.com/SOTILLOCRJ/math-x.git
